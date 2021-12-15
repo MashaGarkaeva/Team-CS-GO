@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array">
+        <item name="nafany">nafany</item>
+        <item name="interz">interz</item>
+        <item name="ax1le">Ax1le</item>
+        <item name="shiro">sh1ro</item>
+        <item name="hobbit">Hobbit</item>
+    </string-array>
+</resources>
