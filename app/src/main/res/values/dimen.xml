@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <dimen name="textsize">43sp</dimen>
-    <dimen name="place">60dp</dimen>
-    <dimen name="btn_1">180dp</dimen>
-    <dimen name="btn_2">50dp</dimen>
-    <dimen name="size">20sp</dimen>
-</resources>
